@@ -1,2 +1,2 @@
-# Projects
-Using a single repo to store many random projects
+# Crypto Tracker
+A simple python portfolio value tracker
